@@ -1,2 +1,2 @@
 # study-python
-This repo 
+This repo is only for study python myself
